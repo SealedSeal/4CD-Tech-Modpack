@@ -61,6 +61,8 @@ Tinkers Construct |
 Treecapitator |
 Wall-Jump |
 Xaero's Minimap |
-Xaero's World Map
+Xaero's World Map<br>
+
+And some dependencies
 
 --------------------------------------------------

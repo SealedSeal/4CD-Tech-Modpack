@@ -12,7 +12,7 @@ Simply place all folders (config, resourcepack, shaderpack, mods) in minecraft f
 Resourcepacks:
 
 [4CD Tech 32x32](https://github.com/SealedSeal/4CD-Tech-32x32)<br>
-Faithful 32x32<br>
+[Faithful 32x32](https://faithfulpack.net/)<br>
 
 --------------------------------------------------
 

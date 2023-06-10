@@ -1,0 +1,14 @@
+v1.1.1
+Configs:
+
++ Capasitors now have 1/10 of their original storage size
+
+v1.1
+Mods:
+
++ Future MC
++ Friendly Chests
+
+v1.0
+
+Initial modpack

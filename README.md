@@ -34,6 +34,8 @@ List of mods:
 [CustomSkinLoader](https://www.curseforge.com/minecraft/mc-mods/customskinloader) |
 [Energy Converters](https://www.curseforge.com/minecraft/mc-mods/energy-converters) |
 [Forestry](https://www.curseforge.com/minecraft/mc-mods/forestry) |
+[Friendly Chests](https://www.curseforge.com/minecraft/mc-mods/friendly-chests) |
+[Future MC](https://www.curseforge.com/minecraft/mc-mods/future-mc) |
 [Galacticraft](https://www.curseforge.com/minecraft/mc-mods/galacticraft-legacy) |
 [Gems and Crystals](https://www.curseforge.com/minecraft/mc-mods/gems-and-crystals) |
 [Gravitation Suite](https://www.curseforge.com/minecraft/mc-mods/gravitation-suite) |

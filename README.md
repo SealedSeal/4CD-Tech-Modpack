@@ -18,7 +18,7 @@ Resourcepacks:
 
 Shaderpack:
 
-Sildurs Vibrant Medium
+[Sildurs Vibrant Medium](https://sildurs-shaders.github.io/)
 
 --------------------------------------------------
 

@@ -1,7 +1,7 @@
 v1.1.1
 Configs:
 
-+ Thermal Expansion: Capasitors now have 1/10 of their original storage size
++ Thermal Expansion: Capaсitors now have 1/10 of their original storage size
 
 v1.1
 Mods:

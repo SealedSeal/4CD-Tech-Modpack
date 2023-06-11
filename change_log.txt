@@ -2,7 +2,7 @@ v1.1.2
 Configs:
 
 + Forestry: Disabled craft of bronze from ingots
-= IC2: Fresh Water (harvestcraft:freshwater) and Salt (harvestcraft:saltitem) are now in recycle blacklist
++ IC2: Fresh Water (harvestcraft:freshwater) and Salt (harvestcraft:saltitem) are now in recycle blacklist
 
 v1.1.1
 Configs:

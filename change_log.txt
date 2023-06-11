@@ -1,7 +1,13 @@
+v1.1.2
+Configs:
+
++ Forestry: Disabled craft of bronze from ingots
+= IC2: Fresh Water (harvestcraft:freshwater) and Salt (harvestcraft:saltitem) are now in recycle blacklist
+
 v1.1.1
 Configs:
 
-+ Thermal Expansion: Capasitors now have 1/10 of their original storage size
++ Thermal Expansion: Capacitors now have 1/10 of their original storage size
 
 v1.1
 Mods:

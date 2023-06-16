@@ -32,7 +32,7 @@ List of mods:
 [Comforts](https://www.curseforge.com/minecraft/mc-mods/comforts) |
 [Compact Solars](https://www.curseforge.com/minecraft/mc-mods/compact-solars) |
 [CustomSkinLoader](https://www.curseforge.com/minecraft/mc-mods/customskinloader) |
-[Energy Converters](https://www.curseforge.com/minecraft/mc-mods/energy-converters) |
+[//]: # ([Energy Converters](https://www.curseforge.com/minecraft/mc-mods/energy-converters) |)
 [Forestry](https://www.curseforge.com/minecraft/mc-mods/forestry) |
 [Friendly Chests](https://www.curseforge.com/minecraft/mc-mods/friendly-chests) |
 [Future MC](https://www.curseforge.com/minecraft/mc-mods/future-mc) |
@@ -44,6 +44,7 @@ List of mods:
 [ItemPhysic](https://www.curseforge.com/minecraft/mc-mods/itemphysic) |
 [JEI](https://www.curseforge.com/minecraft/mc-mods/jei) |
 [Large Ore Deposits](https://www.curseforge.com/minecraft/mc-mods/large-ore-deposits) |
+[Light Level Overlay](https://www.curseforge.com/minecraft/mc-mods/light-level-overlay-reloaded) |
 [Macaw's Furniture](https://www.curseforge.com/minecraft/mc-mods/macaws-furniture) |
 [Mouse Tweaks](https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks) |
 [MrCrayfish's Furniture](https://www.curseforge.com/minecraft/mc-mods/mrcrayfish-furniture-mod) |

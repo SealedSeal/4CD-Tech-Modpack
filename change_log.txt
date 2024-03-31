@@ -1,10 +1,15 @@
 v1.3
 Mods:
 + Added 1.13 Water Bubble Columns
++ Added Tinkers' Tool Leveling
++ Adedd Construct's Armory
 - Removed MrCrayfish's Furniture
 
 Resourcepacks:
 + Updated 4CD Tech 32x32 to 1.3
+
+Configs: 
+- IC2: Disabled craft of storage boxes
 
 v1.2
 Mods:

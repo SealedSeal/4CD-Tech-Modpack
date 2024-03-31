@@ -24,6 +24,7 @@ Shaderpack:
 
 List of mods:
 
+[1.13 Water Bubble Columns](https://www.curseforge.com/minecraft/mc-mods/bubble-column-elevator-backport) |
 [Backpacks](https://www.curseforge.com/minecraft/mc-mods/forge-backpacks) |
 [BetterFps](https://www.curseforge.com/minecraft/mc-mods/betterfps) |
 [Biome Bundle O Plenty](https://www.curseforge.com/minecraft/mc-mods/biome-bundle-o-plenty) |
@@ -31,8 +32,8 @@ List of mods:
 [Buildcraft](https://www.curseforge.com/minecraft/mc-mods/buildcraft) |
 [Comforts](https://www.curseforge.com/minecraft/mc-mods/comforts) |
 [Compact Solars](https://www.curseforge.com/minecraft/mc-mods/compact-solars) |
+[Construct's Armory](https://www.curseforge.com/minecraft/mc-mods/constructs-armory) |
 [CustomSkinLoader](https://www.curseforge.com/minecraft/mc-mods/customskinloader) |
-[//]: # ([Energy Converters](https://www.curseforge.com/minecraft/mc-mods/energy-converters) |)
 [Forestry](https://www.curseforge.com/minecraft/mc-mods/forestry) |
 [Friendly Chests](https://www.curseforge.com/minecraft/mc-mods/friendly-chests) |
 [Future MC](https://www.curseforge.com/minecraft/mc-mods/future-mc) |
@@ -43,11 +44,12 @@ List of mods:
 [Iron Tanks](https://www.curseforge.com/minecraft/mc-mods/iron-tanks) |
 [ItemPhysic](https://www.curseforge.com/minecraft/mc-mods/itemphysic) |
 [JEI](https://www.curseforge.com/minecraft/mc-mods/jei) |
+[JER](https://www.curseforge.com/minecraft/mc-mods/just-enough-resources-jer) |
 [Large Ore Deposits](https://www.curseforge.com/minecraft/mc-mods/large-ore-deposits) |
 [Light Level Overlay](https://www.curseforge.com/minecraft/mc-mods/light-level-overlay-reloaded) |
 [Macaw's Furniture](https://www.curseforge.com/minecraft/mc-mods/macaws-furniture) |
 [Mouse Tweaks](https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks) |
-[MrCrayfish's Furniture](https://www.curseforge.com/minecraft/mc-mods/mrcrayfish-furniture-mod) |
+#[MrCrayfish's Furniture](https://www.curseforge.com/minecraft/mc-mods/mrcrayfish-furniture-mod) |
 [Open Glider](https://www.curseforge.com/minecraft/mc-mods/open-glider) |
 [OTG](https://www.curseforge.com/minecraft/mc-mods/open-terrain-generator) |
 [Pam's BrewCraft](https://www.curseforge.com/minecraft/mc-mods/pams-brewcraft) |

@@ -63,7 +63,8 @@ List of mods:
 [Thermal Expansion](https://www.curseforge.com/minecraft/mc-mods/thermal-expansion) |
 [Thermal Foundation](https://www.curseforge.com/minecraft/mc-mods/thermal-foundation) |
 [Thermal Innovation](https://www.curseforge.com/minecraft/mc-mods/thermal-innovation) |
-[Tinkers Construct](https://www.curseforge.com/minecraft/mc-mods/tinkers-construct) |
+[Tinkers' Construct](https://www.curseforge.com/minecraft/mc-mods/tinkers-construct) |
+[Tinkers' Tool Leveling](https://www.curseforge.com/minecraft/mc-mods/tinkers-tool-leveling) |
 [Treecapitator](https://www.curseforge.com/minecraft/mc-mods/treecapitator-updated) |
 [Wall-Jump](https://www.curseforge.com/minecraft/mc-mods/wall-jump) |
 [Xaero's Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap) |

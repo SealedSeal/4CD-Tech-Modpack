@@ -49,7 +49,6 @@ List of mods:
 [Light Level Overlay](https://www.curseforge.com/minecraft/mc-mods/light-level-overlay-reloaded) |
 [Macaw's Furniture](https://www.curseforge.com/minecraft/mc-mods/macaws-furniture) |
 [Mouse Tweaks](https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks) |
-#[MrCrayfish's Furniture](https://www.curseforge.com/minecraft/mc-mods/mrcrayfish-furniture-mod) |
 [Open Glider](https://www.curseforge.com/minecraft/mc-mods/open-glider) |
 [OTG](https://www.curseforge.com/minecraft/mc-mods/open-terrain-generator) |
 [Pam's BrewCraft](https://www.curseforge.com/minecraft/mc-mods/pams-brewcraft) |

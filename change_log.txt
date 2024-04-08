@@ -3,6 +3,9 @@ Mods:
 + Added CraftTweaker
 + Added Yet Another Recipe Conflict Fixer
 
+Resourcepacks:
++ Updated 4CD Tech 32x32 to 1.3.12
+
 Configs:
 - Railcraft: removed recipe for gunpowder 
 

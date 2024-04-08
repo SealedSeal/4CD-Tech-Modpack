@@ -33,6 +33,7 @@ List of mods:
 [Comforts](https://www.curseforge.com/minecraft/mc-mods/comforts) |
 [Compact Solars](https://www.curseforge.com/minecraft/mc-mods/compact-solars) |
 [Construct's Armory](https://www.curseforge.com/minecraft/mc-mods/constructs-armory) |
+[CraftTweaker](https://www.curseforge.com/minecraft/mc-mods/crafttweaker) |
 [CustomSkinLoader](https://www.curseforge.com/minecraft/mc-mods/customskinloader) |
 [Forestry](https://www.curseforge.com/minecraft/mc-mods/forestry) |
 [Friendly Chests](https://www.curseforge.com/minecraft/mc-mods/friendly-chests) |
@@ -67,7 +68,8 @@ List of mods:
 [Treecapitator](https://www.curseforge.com/minecraft/mc-mods/treecapitator-updated) |
 [Wall-Jump](https://www.curseforge.com/minecraft/mc-mods/wall-jump) |
 [Xaero's Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap) |
-[Xaero's World Map](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map)<br>
+[Xaero's World Map](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map) |
+[YARCF](https://www.curseforge.com/minecraft/mc-mods/yarcf)<br>
 
 And some dependencies
 

@@ -1,3 +1,8 @@
+v1.3.2
+
+Configs:
+- Railcraft: removed recipe for gunpowder
+
 v1.3.1
 + Added missing mod file (Tinkers' Tool Leveling)
 

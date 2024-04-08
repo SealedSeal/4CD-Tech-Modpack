@@ -1,7 +1,13 @@
 v1.3.2
+Mods:
++ Added CraftTweaker
++ Added Yet Another Recipe Conflict Fixer
 
 Configs:
-- Railcraft: removed recipe for gunpowder
+- Railcraft: removed recipe for gunpowder 
+
+Scripts:
++ Added recipe for gunpowder with the use of sulfur from Sulfur And Potassium, coal/charcoal dust and 2 niter/saltpeter
 
 v1.3.1
 + Added missing mod file (Tinkers' Tool Leveling)
